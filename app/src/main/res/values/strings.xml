@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">CardScan</string>
+    <string name="cd_brand_logo">CardScan logo</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_more_options">More options</string>
+    <string name="cd_clear_search">Clear search</string>
+    <string name="cd_import_gallery">Import card from gallery</string>
+    <string name="cd_capture_card">Capture business card</string>
+    <string name="cd_toggle_flash">Toggle flash</string>
+    <string name="cd_scanned_card_preview">Scanned business card preview</string>
+    <string name="cd_open_contact">View contact details</string>
+    <string name="cd_edit_contact">Edit contact</string>
+    <string name="cd_delete_contact">Delete contact</string>
+    <string name="cd_copy_value">Copy value</string>
+    <string name="cd_call_contact">Call mobile number</string>
+    <string name="cd_email_contact">Send email</string>
+    <string name="cd_open_website">Open website</string>
+    <string name="cd_open_address">Open address in maps</string>
+    <string name="cd_close_preview">Close full card preview</string>
+
+    <string name="title_scan_card">Scan card</string>
+    <string name="title_review_contact">Review contact</string>
+    <string name="title_edit_contact">Edit contact</string>
+    <string name="title_contacts">Contacts</string>
+    <string name="title_contact_details">Contact details</string>
+
+    <string name="nav_contacts">Contacts</string>
+    <string name="nav_scan">Scan</string>
+
+    <string name="scan_align_hint">Align the card within the frame</string>
+    <string name="scan_processing">Reading business card…</string>
+    <string name="scan_manual_entry">Enter manually</string>
+    <string name="scan_retake">Retake</string>
+    <string name="scan_camera_permission_title">Camera access needed</string>
+    <string name="scan_camera_permission_body">Allow camera access to scan business cards directly, or import a card photo from your gallery.</string>
+    <string name="scan_enable_camera">Enable camera</string>
+    <string name="scan_open_settings">Open settings</string>
+    <string name="scan_import_photo">Import from gallery</string>
+
+    <string name="field_name">Name</string>
+    <string name="field_designation">Designation</string>
+    <string name="field_company">Company name</string>
+    <string name="field_mobile">Mobile number</string>
+    <string name="field_email">Email</string>
+    <string name="field_website">Company website</string>
+    <string name="field_address">Address</string>
+
+    <string name="placeholder_name">e.g. Maya Patel</string>
+    <string name="placeholder_designation">e.g. Strategy Director</string>
+    <string name="placeholder_company">e.g. Meridian Advisory</string>
+    <string name="placeholder_mobile">e.g. +968 9000 1234</string>
+    <string name="placeholder_email">e.g. maya@meridian.com</string>
+    <string name="placeholder_website">e.g. https://meridian.com</string>
+    <string name="placeholder_address">Street, suite, city, country</string>
+
+    <string name="action_save_contact">Save contact</string>
+    <string name="action_update_contact">Save changes</string>
+    <string name="action_add_phone_contacts">Add to Phone Contacts</string>
+    <string name="action_add_manually">Add contact manually</string>
+    <string name="action_scan_first_card">Scan business card</string>
+    <string name="action_clear_filters">Clear search</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_update_existing">Update existing</string>
+    <string name="action_save_separate">Save as separate</string>
+
+    <string name="badge_just_added">Just added</string>
+    <string name="badge_verify">Verify</string>
+
+    <string name="search_placeholder">Search contacts</string>
+    <string name="filter_all">All</string>
+    <string name="filter_name">Name</string>
+    <string name="filter_company">Company</string>
+    <string name="filter_designation">Designation</string>
+
+    <string name="empty_contacts_title">No saved contacts yet</string>
+    <string name="empty_contacts_subtitle">Scan a business card with your camera or import one from your gallery to build your searchable directory.</string>
+    <string name="empty_search_title">No matching contacts</string>
+    <string name="empty_search_subtitle">Try a different keyword or switch the active search filter.</string>
+
+    <string name="ocr_uncertain_banner">Some details need a quick check. Highlighted fields had lower OCR confidence.</string>
+    <string name="ocr_failed_banner">Could not read text clearly from this card. Retake the photo or enter the details below.</string>
+    <string name="ocr_no_text_error">No readable text was detected on the card. You can retake the photo or enter details manually.</string>
+
+    <string name="error_contact_empty">Enter at least a name, company, mobile number, or email to save.</string>
+    <string name="error_invalid_phone">Enter a valid mobile number (7–15 digits, optional + country code).</string>
+    <string name="error_invalid_email">Enter a valid email address.</string>
+    <string name="error_invalid_website">Enter a valid website URL (e.g. company.com).</string>
+    <string name="error_contacts_app_missing">No Contacts app found on this device. Your record is safely stored in CardScan.</string>
+    <string name="error_camera_unavailable">Camera is unavailable on this device. Import a card photo from your gallery or enter details manually.</string>
+    <string name="error_capture_failed">Could not capture photo. Please try again or import from gallery.</string>
+
+    <string name="msg_contact_saved">Contact saved to CardScan</string>
+    <string name="msg_contact_updated">Contact updated</string>
+    <string name="msg_contact_deleted">Contact deleted</string>
+    <string name="msg_copied">Copied to clipboard</string>
+    <string name="msg_opening_phone_contacts">Opening phone Contacts editor…</string>
+
+    <string name="duplicate_dialog_title">Contact already exists</string>
+    <string name="duplicate_dialog_body">A saved contact already matches this %1$s. Would you like to update the existing record or save a separate one?</string>
+    <string name="delete_dialog_title">Delete contact?</string>
+    <string name="delete_dialog_body">Remove %1$s from CardScan? This will not delete entries already exported to your phone contacts.</string>
+</resources>

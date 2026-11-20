@@ -1,0 +1,6 @@
+{
+  "name": "CardScan",
+  "description": "Scan business cards with the camera or photo library, extract and review contact details with OCR, save to an on-device searchable directory, and export to phone contacts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
